@@ -1,0 +1,16 @@
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\split line.xnb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Score.xnb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\paddle.xnb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\outline.xnb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\blip.xnb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\blip2.xnb
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Pong.exe.manifest
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Pong.application
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.exe.manifest
+D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\Pong.application

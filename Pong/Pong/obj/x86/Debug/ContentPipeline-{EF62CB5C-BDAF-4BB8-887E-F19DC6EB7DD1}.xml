@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>split line.png</Source>
+      <Name>split line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\split line.xnb</Output>
+      <Time>2015-03-26T23:10:46.2207555-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Score.spritefont</Source>
+      <Name>Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\Score.xnb</Output>
+      <Time>2015-03-27T23:20:17.0248781-04:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle.png</Source>
+      <Name>paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\paddle.xnb</Output>
+      <Time>2015-03-21T23:48:34.5845445-04:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangle outline.png</Source>
+      <Name>outline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\outline.xnb</Output>
+      <Time>2015-03-28T18:48:38.4486428-04:00</Time>
+    </Item>
+    <Item>
+      <Source>103336__fawfulgrox__low-bloop.wav</Source>
+      <Name>blip</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\blip.xnb</Output>
+      <Time>2015-03-28T20:50:40.1897085-04:00</Time>
+    </Item>
+    <Item>
+      <Source>103336__fawfulgrox__low-bloop2.wav</Source>
+      <Name>blip2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\blip2.xnb</Output>
+      <Time>2015-03-28T20:55:35.7465793-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{EF62CB5C-BDAF-4BB8-887E-F19DC6EB7DD1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\PongContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Documents (Misc.)\Visual Studio 2013\Projects\XNA\Pong\Pong\Pong\Pong\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-02-23T22:23:38.3237517-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
